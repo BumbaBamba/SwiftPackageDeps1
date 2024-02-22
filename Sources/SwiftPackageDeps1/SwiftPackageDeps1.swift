@@ -2,5 +2,5 @@
 // https://docs.swift.org/swift-book
 
 func getVersion() {
-    "1.0.0"
+    "1.1.0"
 }
